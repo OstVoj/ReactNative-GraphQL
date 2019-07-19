@@ -1,0 +1,38 @@
+{
+	"expo": {
+		"name": "IconicReach",
+		"slug": "stable_IR",
+		"privacy": "unlisted",
+		"sdkVersion": "32.0.0",
+		"platforms": ["ios", "android"],
+		"version": "1.0.3",
+		"orientation": "portrait",
+		"icon": "./assets/icon.png",
+		"splash": {
+			"image": "./assets/splash.png",
+			"resizeMode": "contain",
+			"backgroundColor": "#ffffff"
+		},
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["**/*"],
+		"description": "",
+		"facebookAppId": "1105241319661282",
+		"ios": {
+			"bundleIdentifier": "com.iconicreach.influencers",
+			"buildNumber": "1.0.3",
+			"icon": "./assets/icon.png",
+			"supportsTablet": false,
+			"splash": {
+				"image": "./assets/splash.png",
+				"resizeMode": "contain",
+				"backgroundColor": "#ffffff"
+			},
+			"infoPlist": {
+				"NSCameraUsageDescription": "IconicReach app uses the camera to let you upload media content directly from the camera",
+				"NSPhotoLibraryUsageDescription": "IconicReach app uses the camera to let you upload media content from your Library"
+			}
+		}
+	}
+}

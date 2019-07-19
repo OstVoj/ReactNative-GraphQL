@@ -1,0 +1,1216 @@
+{
+	"countries": [
+		{
+			"key": "+1",
+			"value": "US",
+			"label": "United States"
+		},
+		{
+			"key": "+1",
+			"value": "CA",
+			"label": "Canada"
+		},
+		{
+			"key": "+972",
+			"value": "IL",
+			"label": "Israel"
+		},
+		{
+			"key": "+93",
+			"value": "AF",
+			"label": "Afghanistan"
+		},
+		{
+			"key": "+355",
+			"value": "AL",
+			"label": "Albania"
+		},
+		{
+			"key": "+213",
+			"value": "DZ",
+			"label": "Algeria"
+		},
+		{
+			"key": "+1 684",
+			"value": "AS",
+			"label": "American Samoa"
+		},
+		{
+			"key": "+376",
+			"value": "AD",
+			"label": "Andorra"
+		},
+		{
+			"key": "+244",
+			"value": "AO",
+			"label": "Angola"
+		},
+		{
+			"key": "+1 264",
+			"value": "AI",
+			"label": "Anguilla"
+		},
+		{
+			"key": "+1 268",
+			"value": "AG",
+			"label": "Antigua and Barbuda"
+		},
+		{
+			"key": "+54",
+			"value": "AR",
+			"label": "Argentina"
+		},
+		{
+			"key": "+374",
+			"value": "AM",
+			"label": "Armenia"
+		},
+		{
+			"key": "+297",
+			"value": "AW",
+			"label": "Aruba"
+		},
+		{
+			"key": "+61",
+			"value": "AU",
+			"label": "Australia"
+		},
+		{
+			"key": "+43",
+			"value": "AT",
+			"label": "Austria"
+		},
+		{
+			"key": "+994",
+			"value": "AZ",
+			"label": "Azerbaijan"
+		},
+		{
+			"key": "+1 242",
+			"value": "BS",
+			"label": "Bahamas"
+		},
+		{
+			"key": "+973",
+			"value": "BH",
+			"label": "Bahrain"
+		},
+		{
+			"key": "+880",
+			"value": "BD",
+			"label": "Bangladesh"
+		},
+		{
+			"key": "+1 246",
+			"value": "BB",
+			"label": "Barbados"
+		},
+		{
+			"key": "+375",
+			"value": "BY",
+			"label": "Belarus"
+		},
+		{
+			"key": "+32",
+			"value": "BE",
+			"label": "Belgium"
+		},
+		{
+			"key": "+501",
+			"value": "BZ",
+			"label": "Belize"
+		},
+		{
+			"key": "+229",
+			"value": "BJ",
+			"label": "Benin"
+		},
+		{
+			"key": "+1 441",
+			"value": "BM",
+			"label": "Bermuda"
+		},
+		{
+			"key": "+975",
+			"value": "BT",
+			"label": "Bhutan"
+		},
+		{
+			"key": "+387",
+			"value": "BA",
+			"label": "Bosnia and Herzegovina"
+		},
+		{
+			"key": "+267",
+			"value": "BW",
+			"label": "Botswana"
+		},
+		{
+			"key": "+55",
+			"value": "BR",
+			"label": "Brazil"
+		},
+		{
+			"key": "+246",
+			"value": "IO",
+			"label": "British Indian Ocean Territory"
+		},
+		{
+			"key": "+359",
+			"value": "BG",
+			"label": "Bulgaria"
+		},
+		{
+			"key": "+226",
+			"value": "BF",
+			"label": "Burkina Faso"
+		},
+		{
+			"key": "+257",
+			"value": "BI",
+			"label": "Burundi"
+		},
+		{
+			"key": "+855",
+			"value": "KH",
+			"label": "Cambodia"
+		},
+		{
+			"key": "+237",
+			"value": "CM",
+			"label": "Cameroon"
+		},
+
+		{
+			"key": "+238",
+			"value": "CV",
+			"label": "Cape Verde"
+		},
+		{
+			"key": "+ 345",
+			"value": "KY",
+			"label": "Cayman Islands"
+		},
+		{
+			"key": "+236",
+			"value": "CF",
+			"label": "Central African Republic"
+		},
+		{
+			"key": "+235",
+			"value": "TD",
+			"label": "Chad"
+		},
+		{
+			"key": "+56",
+			"value": "CL",
+			"label": "Chile"
+		},
+		{
+			"key": "+86",
+			"value": "CN",
+			"label": "China"
+		},
+		{
+			"key": "+61",
+			"value": "CX",
+			"label": "Christmas Island"
+		},
+		{
+			"key": "+57",
+			"value": "CO",
+			"label": "Colombia"
+		},
+		{
+			"key": "+269",
+			"value": "KM",
+			"label": "Comoros"
+		},
+		{
+			"key": "+242",
+			"value": "CG",
+			"label": "Congo"
+		},
+		{
+			"key": "+682",
+			"value": "CK",
+			"label": "Cook Islands"
+		},
+		{
+			"key": "+506",
+			"value": "CR",
+			"label": "Costa Rica"
+		},
+		{
+			"key": "+385",
+			"value": "HR",
+			"label": "Croatia"
+		},
+		{
+			"key": "+53",
+			"value": "CU",
+			"label": "Cuba"
+		},
+		{
+			"key": "+537",
+			"value": "CY",
+			"label": "Cyprus"
+		},
+		{
+			"key": "+420",
+			"value": "CZ",
+			"label": "Czech Republic"
+		},
+		{
+			"key": "+45",
+			"value": "DK",
+			"label": "Denmark"
+		},
+		{
+			"key": "+253",
+			"value": "DJ",
+			"label": "Djibouti"
+		},
+		{
+			"key": "+1 767",
+			"value": "DM",
+			"label": "Dominica"
+		},
+		{
+			"key": "+1 849",
+			"value": "DO",
+			"label": "Dominican Republic"
+		},
+		{
+			"key": "+593",
+			"value": "EC",
+			"label": "Ecuador"
+		},
+		{
+			"key": "+20",
+			"value": "EG",
+			"label": "Egypt"
+		},
+		{
+			"key": "+503",
+			"value": "SV",
+			"label": "El Salvador"
+		},
+		{
+			"key": "+240",
+			"value": "GQ",
+			"label": "Equatorial Guinea"
+		},
+		{
+			"key": "+291",
+			"value": "ER",
+			"label": "Eritrea"
+		},
+		{
+			"key": "+372",
+			"value": "EE",
+			"label": "Estonia"
+		},
+		{
+			"key": "+251",
+			"value": "ET",
+			"label": "Ethiopia"
+		},
+		{
+			"key": "+298",
+			"value": "FO",
+			"label": "Faroe Islands"
+		},
+		{
+			"key": "+679",
+			"value": "FJ",
+			"label": "Fiji"
+		},
+		{
+			"key": "+358",
+			"value": "FI",
+			"label": "Finland"
+		},
+		{
+			"key": "+33",
+			"value": "FR",
+			"label": "France"
+		},
+		{
+			"key": "+594",
+			"value": "GF",
+			"label": "French Guiana"
+		},
+		{
+			"key": "+689",
+			"value": "PF",
+			"label": "French Polynesia"
+		},
+		{
+			"key": "+241",
+			"value": "GA",
+			"label": "Gabon"
+		},
+		{
+			"key": "+220",
+			"value": "GM",
+			"label": "Gambia"
+		},
+		{
+			"key": "+995",
+			"value": "GE",
+			"label": "Georgia"
+		},
+		{
+			"key": "+49",
+			"value": "DE",
+			"label": "Germany"
+		},
+		{
+			"key": "+233",
+			"value": "GH",
+			"label": "Ghana"
+		},
+		{
+			"key": "+350",
+			"value": "GI",
+			"label": "Gibraltar"
+		},
+		{
+			"key": "+30",
+			"value": "GR",
+			"label": "Greece"
+		},
+		{
+			"key": "+299",
+			"value": "GL",
+			"label": "Greenland"
+		},
+		{
+			"key": "+1 473",
+			"value": "GD",
+			"label": "Grenada"
+		},
+		{
+			"key": "+590",
+			"value": "GP",
+			"label": "Guadeloupe"
+		},
+		{
+			"key": "+1 671",
+			"value": "GU",
+			"label": "Guam"
+		},
+		{
+			"key": "+502",
+			"value": "GT",
+			"label": "Guatemala"
+		},
+		{
+			"key": "+224",
+			"value": "GN",
+			"label": "Guinea"
+		},
+		{
+			"key": "+245",
+			"value": "GW",
+			"label": "Guinea-Bissau"
+		},
+		{
+			"key": "+595",
+			"value": "GY",
+			"label": "Guyana"
+		},
+		{
+			"key": "+509",
+			"value": "HT",
+			"label": "Haiti"
+		},
+		{
+			"key": "+504",
+			"value": "HN",
+			"label": "Honduras"
+		},
+		{
+			"key": "+36",
+			"value": "HU",
+			"label": "Hungary"
+		},
+		{
+			"key": "+354",
+			"value": "IS",
+			"label": "Iceland"
+		},
+		{
+			"key": "+91",
+			"value": "IN",
+			"label": "India"
+		},
+		{
+			"key": "+62",
+			"value": "ID",
+			"label": "Indonesia"
+		},
+		{
+			"key": "+964",
+			"value": "IQ",
+			"label": "Iraq"
+		},
+		{
+			"key": "+353",
+			"value": "IE",
+			"label": "Ireland"
+		},
+		{
+			"key": "+972",
+			"value": "IL",
+			"label": "Israel"
+		},
+		{
+			"key": "+39",
+			"value": "IT",
+			"label": "Italy"
+		},
+		{
+			"key": "+1 876",
+			"value": "JM",
+			"label": "Jamaica"
+		},
+		{
+			"key": "+81",
+			"value": "JP",
+			"label": "Japan"
+		},
+		{
+			"key": "+962",
+			"value": "JO",
+			"label": "Jordan"
+		},
+		{
+			"key": "+7 7",
+			"value": "KZ",
+			"label": "Kazakhstan"
+		},
+		{
+			"key": "+254",
+			"value": "KE",
+			"label": "Kenya"
+		},
+		{
+			"key": "+686",
+			"value": "KI",
+			"label": "Kiribati"
+		},
+		{
+			"key": "+965",
+			"value": "KW",
+			"label": "Kuwait"
+		},
+		{
+			"key": "+996",
+			"value": "KG",
+			"label": "Kyrgyzstan"
+		},
+		{
+			"key": "+371",
+			"value": "LV",
+			"label": "Latvia"
+		},
+		{
+			"key": "+961",
+			"value": "LB",
+			"label": "Lebanon"
+		},
+		{
+			"key": "+266",
+			"value": "LS",
+			"label": "Lesotho"
+		},
+		{
+			"key": "+231",
+			"value": "LR",
+			"label": "Liberia"
+		},
+		{
+			"key": "+423",
+			"value": "LI",
+			"label": "Liechtenstein"
+		},
+		{
+			"key": "+370",
+			"value": "LT",
+			"label": "Lithuania"
+		},
+		{
+			"key": "+352",
+			"value": "LU",
+			"label": "Luxembourg"
+		},
+		{
+			"key": "+261",
+			"value": "MG",
+			"label": "Madagascar"
+		},
+		{
+			"key": "+265",
+			"value": "MW",
+			"label": "Malawi"
+		},
+		{
+			"key": "+60",
+			"value": "MY",
+			"label": "Malaysia"
+		},
+		{
+			"key": "+960",
+			"value": "MV",
+			"label": "Maldives"
+		},
+		{
+			"key": "+223",
+			"value": "ML",
+			"label": "Mali"
+		},
+		{
+			"key": "+356",
+			"value": "MT",
+			"label": "Malta"
+		},
+		{
+			"key": "+692",
+			"value": "MH",
+			"label": "Marshall Islands"
+		},
+		{
+			"key": "+596",
+			"value": "MQ",
+			"label": "Martinique"
+		},
+		{
+			"key": "+222",
+			"value": "MR",
+			"label": "Mauritania"
+		},
+		{
+			"key": "+230",
+			"value": "MU",
+			"label": "Mauritius"
+		},
+		{
+			"key": "+262",
+			"value": "YT",
+			"label": "Mayotte"
+		},
+		{
+			"key": "+52",
+			"value": "MX",
+			"label": "Mexico"
+		},
+		{
+			"key": "+377",
+			"value": "MC",
+			"label": "Monaco"
+		},
+		{
+			"key": "+976",
+			"value": "MN",
+			"label": "Mongolia"
+		},
+		{
+			"key": "+382",
+			"value": "ME",
+			"label": "Montenegro"
+		},
+		{
+			"key": "+1664",
+			"value": "MS",
+			"label": "Montserrat"
+		},
+		{
+			"key": "+212",
+			"value": "MA",
+			"label": "Morocco"
+		},
+		{
+			"key": "+95",
+			"value": "MM",
+			"label": "Myanmar"
+		},
+		{
+			"key": "+264",
+			"value": "NA",
+			"label": "Namibia"
+		},
+		{
+			"key": "+674",
+			"value": "NR",
+			"label": "Nauru"
+		},
+		{
+			"key": "+977",
+			"value": "NP",
+			"label": "Nepal"
+		},
+		{
+			"key": "+31",
+			"value": "NL",
+			"label": "Netherlands"
+		},
+		{
+			"key": "+599",
+			"value": "AN",
+			"label": "Netherlands Antilles"
+		},
+		{
+			"key": "+687",
+			"value": "NC",
+			"label": "New Caledonia"
+		},
+		{
+			"key": "+64",
+			"value": "NZ",
+			"label": "New Zealand"
+		},
+		{
+			"key": "+505",
+			"value": "NI",
+			"label": "Nicaragua"
+		},
+		{
+			"key": "+227",
+			"value": "NE",
+			"label": "Niger"
+		},
+		{
+			"key": "+234",
+			"value": "NG",
+			"label": "Nigeria"
+		},
+		{
+			"key": "+683",
+			"value": "NU",
+			"label": "Niue"
+		},
+		{
+			"key": "+672",
+			"value": "NF",
+			"label": "Norfolk Island"
+		},
+		{
+			"key": "+1 670",
+			"value": "MP",
+			"label": "Northern Mariana Islands"
+		},
+		{
+			"key": "+47",
+			"value": "NO",
+			"label": "Norway"
+		},
+		{
+			"key": "+968",
+			"value": "OM",
+			"label": "Oman"
+		},
+		{
+			"key": "+92",
+			"value": "PK",
+			"label": "Pakistan"
+		},
+		{
+			"key": "+680",
+			"value": "PW",
+			"label": "Palau"
+		},
+		{
+			"key": "+507",
+			"value": "PA",
+			"label": "Panama"
+		},
+		{
+			"key": "+675",
+			"value": "PG",
+			"label": "Papua New Guinea"
+		},
+		{
+			"key": "+595",
+			"value": "PY",
+			"label": "Paraguay"
+		},
+		{
+			"key": "+51",
+			"value": "PE",
+			"label": "Peru"
+		},
+		{
+			"key": "+63",
+			"value": "PH",
+			"label": "Philippines"
+		},
+		{
+			"key": "+48",
+			"value": "PL",
+			"label": "Poland"
+		},
+		{
+			"key": "+351",
+			"value": "PT",
+			"label": "Portugal"
+		},
+		{
+			"key": "+1 939",
+			"value": "PR",
+			"label": "Puerto Rico"
+		},
+		{
+			"key": "+974",
+			"value": "QA",
+			"label": "Qatar"
+		},
+		{
+			"key": "+40",
+			"value": "RO",
+			"label": "Romania"
+		},
+		{
+			"key": "+250",
+			"value": "RW",
+			"label": "Rwanda"
+		},
+		{
+			"key": "+685",
+			"value": "WS",
+			"label": "Samoa"
+		},
+		{
+			"key": "+378",
+			"value": "SM",
+			"label": "San Marino"
+		},
+		{
+			"key": "+966",
+			"value": "SA",
+			"label": "Saudi Arabia"
+		},
+		{
+			"key": "+221",
+			"value": "SN",
+			"label": "Senegal"
+		},
+		{
+			"key": "+381",
+			"value": "RS",
+			"label": "Serbia"
+		},
+		{
+			"key": "+248",
+			"value": "SC",
+			"label": "Seychelles"
+		},
+		{
+			"key": "+232",
+			"value": "SL",
+			"label": "Sierra Leone"
+		},
+		{
+			"key": "+65",
+			"value": "SG",
+			"label": "Singapore"
+		},
+		{
+			"key": "+421",
+			"value": "SK",
+			"label": "Slovakia"
+		},
+		{
+			"key": "+386",
+			"value": "SI",
+			"label": "Slovenia"
+		},
+		{
+			"key": "+677",
+			"value": "SB",
+			"label": "Solomon Islands"
+		},
+		{
+			"key": "+27",
+			"value": "ZA",
+			"label": "South Africa"
+		},
+		{
+			"key": "+500",
+			"value": "GS",
+			"label": "South Georgia and the South Sandwich Islands"
+		},
+		{
+			"key": "+34",
+			"value": "ES",
+			"label": "Spain"
+		},
+		{
+			"key": "+94",
+			"value": "LK",
+			"label": "Sri Lanka"
+		},
+		{
+			"key": "+249",
+			"value": "SD",
+			"label": "Sudan"
+		},
+		{
+			"key": "+597",
+			"value": "SR",
+			"label": "Suriname"
+		},
+		{
+			"key": "+268",
+			"value": "SZ",
+			"label": "Swaziland"
+		},
+		{
+			"key": "+46",
+			"value": "SE",
+			"label": "Sweden"
+		},
+		{
+			"key": "+41",
+			"value": "CH",
+			"label": "Switzerland"
+		},
+		{
+			"key": "+992",
+			"value": "TJ",
+			"label": "Tajikistan"
+		},
+		{
+			"key": "+66",
+			"value": "TH",
+			"label": "Thailand"
+		},
+		{
+			"key": "+228",
+			"value": "TG",
+			"label": "Togo"
+		},
+		{
+			"key": "+690",
+			"value": "TK",
+			"label": "Tokelau"
+		},
+		{
+			"key": "+676",
+			"value": "TO",
+			"label": "Tonga"
+		},
+		{
+			"key": "+1 868",
+			"value": "TT",
+			"label": "Trinidad and Tobago"
+		},
+		{
+			"key": "+216",
+			"value": "TN",
+			"label": "Tunisia"
+		},
+		{
+			"key": "+90",
+			"value": "TR",
+			"label": "Turkey"
+		},
+		{
+			"key": "+993",
+			"value": "TM",
+			"label": "Turkmenistan"
+		},
+		{
+			"key": "+1 649",
+			"value": "TC",
+			"label": "Turks and Caicos Islands"
+		},
+		{
+			"key": "+688",
+			"value": "TV",
+			"label": "Tuvalu"
+		},
+		{
+			"key": "+256",
+			"value": "UG",
+			"label": "Uganda"
+		},
+		{
+			"key": "+380",
+			"value": "UA",
+			"label": "Ukraine"
+		},
+		{
+			"key": "+971",
+			"value": "AE",
+			"label": "United Arab Emirates"
+		},
+		{
+			"key": "+44",
+			"value": "GB",
+			"label": "United Kingdom"
+		},
+
+		{
+			"key": "+598",
+			"value": "UY",
+			"label": "Uruguay"
+		},
+		{
+			"key": "+998",
+			"value": "UZ",
+			"label": "Uzbekistan"
+		},
+		{
+			"key": "+678",
+			"value": "VU",
+			"label": "Vanuatu"
+		},
+		{
+			"key": "+681",
+			"value": "WF",
+			"label": "Wallis and Futuna"
+		},
+		{
+			"key": "+967",
+			"value": "YE",
+			"label": "Yemen"
+		},
+		{
+			"key": "+260",
+			"value": "ZM",
+			"label": "Zambia"
+		},
+		{
+			"key": "+263",
+			"value": "ZW",
+			"label": "Zimbabwe"
+		},
+		{
+			"key": "",
+			"value": "AX",
+			"label": "Åland Islands"
+		},
+		{
+			"key": null,
+			"value": "AQ",
+			"label": "Antarctica"
+		},
+		{
+			"key": "+591",
+			"value": "BO",
+			"label": "Bolivia, Plurinational State of"
+		},
+		{
+			"key": "+673",
+			"value": "BN",
+			"label": "Brunei Darussalam"
+		},
+		{
+			"key": "+61",
+			"value": "CC",
+			"label": "Cocos (Keeling) Islands"
+		},
+		{
+			"key": "+243",
+			"value": "CD",
+			"label": "Congo, The Democratic Republic of the"
+		},
+		{
+			"key": "+225",
+			"value": "CI",
+			"label": "Côte d'Ivoire"
+		},
+		{
+			"key": "+500",
+			"value": "FK",
+			"label": "Falkland Islands (Malvinas)"
+		},
+		{
+			"key": "+44",
+			"value": "GG",
+			"label": "Guernsey"
+		},
+		{
+			"key": "+379",
+			"value": "VA",
+			"label": "Holy See (Vatican City State)"
+		},
+		{
+			"key": "+852",
+			"value": "HK",
+			"label": "Hong Kong"
+		},
+		{
+			"key": "+98",
+			"value": "IR",
+			"label": "Iran, Islamic Republic of"
+		},
+		{
+			"key": "+44",
+			"value": "IM",
+			"label": "Isle of Man"
+		},
+		{
+			"key": "+44",
+			"value": "JE",
+			"label": "Jersey"
+		},
+		{
+			"key": "+850",
+			"value": "KP",
+			"label": "Korea, Democratic People's Republic of"
+		},
+		{
+			"key": "+82",
+			"value": "KR",
+			"label": "Korea, Republic of"
+		},
+		{
+			"key": "+856",
+			"value": "LA",
+			"label": "Lao People's Democratic Republic"
+		},
+		{
+			"key": "+218",
+			"value": "LY",
+			"label": "Libyan Arab Jamahiriya"
+		},
+		{
+			"key": "+853",
+			"value": "MO",
+			"label": "Macao"
+		},
+		{
+			"key": "+389",
+			"value": "MK",
+			"label": "Macedonia, The Former Yugoslav Republic of"
+		},
+		{
+			"key": "+691",
+			"value": "FM",
+			"label": "Micronesia, Federated States of"
+		},
+		{
+			"key": "+373",
+			"value": "MD",
+			"label": "Moldova, Republic of"
+		},
+		{
+			"key": "+258",
+			"value": "MZ",
+			"label": "Mozambique"
+		},
+		{
+			"key": "+970",
+			"value": "PS",
+			"label": "Palestinian Territory, Occupied"
+		},
+		{
+			"key": "+872",
+			"value": "PN",
+			"label": "Pitcairn"
+		},
+		{
+			"key": "+262",
+			"value": "RE",
+			"label": "Réunion"
+		},
+		{
+			"key": "+7",
+			"value": "RU",
+			"label": "Russia"
+		},
+		{
+			"key": "+590",
+			"value": "BL",
+			"label": "Saint Barthélemy"
+		},
+		{
+			"key": "+290",
+			"value": "SH",
+			"label": "Saint Helena, Ascension and Tristan Da Cunha"
+		},
+		{
+			"key": "+1 869",
+			"value": "KN",
+			"label": "Saint Kitts and Nevis"
+		},
+		{
+			"key": "+1 758",
+			"value": "LC",
+			"label": "Saint Lucia"
+		},
+		{
+			"key": "+590",
+			"value": "MF",
+			"label": "Saint Martin"
+		},
+		{
+			"key": "+508",
+			"value": "PM",
+			"label": "Saint Pierre and Miquelon"
+		},
+		{
+			"key": "+1 784",
+			"value": "VC",
+			"label": "Saint Vincent and the Grenadines"
+		},
+		{
+			"key": "+239",
+			"value": "ST",
+			"label": "Sao Tome and Principe"
+		},
+		{
+			"key": "+252",
+			"value": "SO",
+			"label": "Somalia"
+		},
+		{
+			"key": "+47",
+			"value": "SJ",
+			"label": "Svalbard and Jan Mayen"
+		},
+		{
+			"key": "+963",
+			"value": "SY",
+			"label": "Syrian Arab Republic"
+		},
+		{
+			"key": "+886",
+			"value": "TW",
+			"label": "Taiwan, Province of China"
+		},
+		{
+			"key": "+255",
+			"value": "TZ",
+			"label": "Tanzania, United Republic of"
+		},
+		{
+			"key": "+670",
+			"value": "TL",
+			"label": "Timor-Leste"
+		},
+		{
+			"key": "+58",
+			"value": "VE",
+			"label": "Venezuela, Bolivarian Republic of"
+		},
+		{
+			"key": "+84",
+			"value": "VN",
+			"label": "Viet Nam"
+		},
+		{
+			"key": "+1 284",
+			"value": "VG",
+			"label": "Virgin Islands, British"
+		},
+		{
+			"key": "+1 340",
+			"value": "VI",
+			"label": "Virgin Islands, U.S."
+		}
+	]
+}

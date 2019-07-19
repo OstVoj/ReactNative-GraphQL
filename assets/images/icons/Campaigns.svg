@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Campaigns-Blank" transform="translate(-30.000000, -731.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-10" transform="translate(0.000000, 716.000000)">
+                <g id="Group-8" transform="translate(18.000000, 17.000000)">
+                    <path d="M29,1.17924764 L16.3500053,9.08549433 C14.8880985,9.99918609 14,11.6015357 14,13.3254858 L14,25 C14,27.7614237 16.2385763,30 19,30 L39,30 C41.7614237,30 44,27.7614237 44,25 L44,13.3254858 C44,11.6015357 43.1119015,9.99918609 41.6499947,9.08549433 L29,1.17924764 Z M15.2900074,7.38949772 L29,-1.17924764 L42.7099926,7.38949772 C44.7566621,8.66866619 46,10.9119556 46,13.3254858 L46,25 C46,28.8659932 42.8659932,32 39,32 L19,32 C15.1340068,32 12,28.8659932 12,25 L12,13.3254858 C12,10.9119556 13.2433379,8.66866619 15.2900074,7.38949772 Z" id="Rectangle"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
